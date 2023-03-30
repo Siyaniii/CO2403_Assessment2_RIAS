@@ -10,5 +10,11 @@ EditorBuildSettings:
     guid: 931d6a0e9ef59eb4e8dbbcddf26950d9
   - enabled: 1
     path: Assets/Scenes/TermsPage.unity
-    guid: ddc0c104559b5904dad48558694fde1b
+    guid: 9186eab6d561560429c1f0eb2bbe6cb7
+  - enabled: 1
+    path: Assets/Scenes/BedroomScene.unity
+    guid: c9b4c7ae1fb4bb242b72f17ec63d238f
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects: {}
